@@ -1,0 +1,18 @@
+.random {
+  display: flex;
+  justify-content: center;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.button {
+  height: 20px;
+}
+
+.text {
+  white-space: pre-line;
+}
